@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/StarbuzzCoffee.java" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a15d5e8-252c-41ec-ad65-7ed8775dee45" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstDesignPatterns/AIntroductionChapter/ADuckBehaviours/DuckBehaviourProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstDesignPatterns/AIntroductionChapter/ADuckBehaviours/DuckBehaviourProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/AxeWeaponStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/AxeWeaponStrategy.java" afterDir="false" />
-    </list>
+    <list default="true" id="1a15d5e8-252c-41ec-ad65-7ed8775dee45" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,34 +31,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/beahaviours/quack/QuackBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/FlyBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/Duck.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/impl/FlyWithWings.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/quack/QuackBehaviour.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/quack/impl/NormalQuack.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/quack/impl/MuteQuack.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/Duck.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/Duck.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/impl/NormalDuck.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/impl/RubberDuck.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/DuckBehaviourProcessor.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/Character.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/WeaponStrategy.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/King.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/Knight.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/Queen.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/AxeWeaponStrategy.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/SwordWeaponStrategy.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/BowAndArrowWeaponStrategy.java" />
-        <option value="$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/Character.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/Subject.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/Observer.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/impl/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/impl/CurrentConditionsDisplay.java" />
         <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/WeatherStation.java" />
         <option value="$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/WeatherData.java" />
         <option value="$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/CurrentConditionsDisplay.java" />
@@ -76,6 +44,44 @@
         <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Whip.java" />
         <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/DarkRoast.java" />
         <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/StarbuzzCoffee.java" />
+        <option value="$PROJECT_DIR$/src/Pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/SimplePizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/PepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/SimplePizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/SimplePizzaFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/PizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/NYPizzaStore.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/PizzaTest.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/NYStyleCheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/NYStylePepperoniPizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/PizzaTest.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/NYPizzaIngredientFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/NYPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Ingredient.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Dough.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Sauce.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Cheese.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/NYCheese.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ChicagoCheese.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/Ingredient.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/NYSauce.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/ChicagoSauce.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/NYDough.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/ChicagoDough.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/factory/PizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/factory/ChicagoPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/factory/NYPizzaIngredientFactory.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/CheesePizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/TomatoPizza.java" />
+        <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Pizzeria.java" />
       </list>
     </option>
   </component>
@@ -139,12 +145,15 @@
       <recent name="AIntroductionChapter.ADuckBehaviours.domain" />
       <recent name="AIntroductionChapter.ADuckBehaviours.behaviours.fly.impl" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\DFactoryPattern\BPizzaFactoryFranchise" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="CDecoratorPattern.ADecoratorPattern" />
-      <recent name="BObserverPattern.AWeatherStation.domain.impl" />
-      <recent name="BObserverPattern.AWeatherStation.domain" />
-      <recent name="AIntroductionChapter.BAdventureGameStrategyPattern.strategy.impl" />
-      <recent name="AIntroductionChapter.BAdventureGameStrategyPattern.strategy" />
+      <recent name="DFactoryPattern.CAbstractPizzaFactory.ingredients" />
+      <recent name="DFactoryPattern.CAbstractPizzaFactory" />
+      <recent name="DFactoryPattern.BPizzaFactoryFranchise" />
+      <recent name="DFactoryPattern.APizzaFactory" />
+      <recent name="Pizza" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,9 +168,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StarbuzzCoffee">
-    <configuration name="DuckBehaviourProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AIntroductionChapter.ADuckBehaviours.DuckBehaviourProcessor" />
+  <component name="RunManager" selected="Application.Pizzeria">
+    <configuration name="PizzaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFactoryPattern.BPizzaFactoryMethodPattern.PizzaTest" />
+      <module name="HeadFirstDesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Pizzeria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFactoryPattern.CAbstractPizzaFactory.Pizzeria" />
       <module name="HeadFirstDesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -204,17 +218,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Application.DuckBehaviourProcessor" />
       <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.WeatherStation (1)" />
       <item itemvalue="Application.StarbuzzCoffee" />
+      <item itemvalue="Application.PizzaTest" />
+      <item itemvalue="Application.Pizzeria" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pizzeria" />
+        <item itemvalue="Application.PizzaTest" />
         <item itemvalue="Application.StarbuzzCoffee" />
         <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.DuckBehaviourProcessor" />
       </list>
     </recent_temporary>
   </component>
@@ -227,12 +243,12 @@
       <updated>1522413582331</updated>
       <workItem from="1522413583959" duration="4853000" />
       <workItem from="1522514389013" duration="3421000" />
-      <workItem from="1522573125382" duration="4542000" />
+      <workItem from="1522573125382" duration="10460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12816000" />
+    <option name="totallyTimeSpent" value="18734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -245,7 +261,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.44224423" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29042906" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
@@ -275,243 +291,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/impl/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/impl/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/impl/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/WeaponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/impl/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/AxeWeaponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/beahaviours/quack/QuackBehaviour.java" />
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/impl/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/quack/impl/NormalQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/quack/impl/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/quack/QuackBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/impl/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/FlyBehaviour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/DuckBehaviourProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/impl/NormalDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/impl/RubberDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/impl/King.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/impl/King.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/SwordWeaponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/BowAndArrowWeaponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="58" lean-forward="true" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/impl/Queen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/impl/AxeWeaponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/strategy/WeaponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/BAdventureGameStrategyPattern/domain/character/impl/Knight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/impl/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/DisplayElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -698,6 +477,278 @@
           <folding>
             <element signature="e#208#209#0" expanded="true" />
             <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/PepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/SimplePizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/SimplePizzaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/NYPizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/NYStyleCheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/NYStylePepperoniPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/FlyBehaviour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/behaviours/fly/impl/FlyWithWings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/impl/NormalDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/domain/animals/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AIntroductionChapter/ADuckBehaviours/DuckBehaviourProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/PizzaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/PizzaStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Dough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Sauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Cheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/NYCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/ChicagoCheese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/NYSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/ChicagoSauce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/NYDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/Ingredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/ChicagoDough.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/factory/ChicagoPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/factory/NYPizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/factory/PizzaIngredientFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/TomatoPizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Pizzeria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/CheesePizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
