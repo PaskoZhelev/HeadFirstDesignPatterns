@@ -1,4 +1,6 @@
-package AIntroductionChapter.BAdventureGameStrategyPattern.strategy;
+package AIntroductionChapter.BAdventureGameStrategyPattern.strategy.impl;
+
+import AIntroductionChapter.BAdventureGameStrategyPattern.strategy.WeaponStrategy;
 
 public class AxeWeaponStrategy implements WeaponStrategy {
     @Override
