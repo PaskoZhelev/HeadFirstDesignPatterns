@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/StarbuzzCoffee.java" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a15d5e8-252c-41ec-ad65-7ed8775dee45" name="Default" comment="" />
+    <list default="true" id="1a15d5e8-252c-41ec-ad65-7ed8775dee45" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,22 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/CondimentDecorator.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Beverage.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Espresso.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/condiments/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Soy.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Whip.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/DarkRoast.java" />
-        <option value="$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/StarbuzzCoffee.java" />
-        <option value="$PROJECT_DIR$/src/Pizza/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/Pizza.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/PizzaStore.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/SimplePizzaFactory.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/CheesePizza.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/PepperoniPizza.java" />
@@ -82,6 +68,22 @@
         <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/Pizza.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/pizza/TomatoPizza.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Pizzeria.java" />
+        <option value="$PROJECT_DIR$/src/ESingletonPattern/ChocolateBoiler.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/Command.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/LightOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/SimpleRemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/LightOffCommand.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/Light.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/RemoteControlTest.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/Command.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/NoCommand.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/LightOnCommand.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/StereoOnWithCDCommand.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/Stereo.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/StereoOffWithCDCommand.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteLoader.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteControl.java" />
       </list>
     </option>
   </component>
@@ -90,6 +92,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
@@ -105,7 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -117,6 +124,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,6 +136,12 @@
               <item name="HeadFirstDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="HeadFirstDesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HeadFirstDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HeadFirstDesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FCommandPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,19 +155,24 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FCommandPattern.BRemoteControl" />
+      <recent name="FCommandPattern.ACommandPattern" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="AIntroductionChapter.ADuckBehaviours.domain" />
       <recent name="AIntroductionChapter.ADuckBehaviours.behaviours.fly.impl" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\DFactoryPattern\BPizzaFactoryFranchise" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="FCommandPattern.BRemoteControl" />
+      <recent name="FCommandPattern.ACommandPattern" />
       <recent name="DFactoryPattern.CAbstractPizzaFactory.ingredients" />
       <recent name="DFactoryPattern.CAbstractPizzaFactory" />
       <recent name="DFactoryPattern.BPizzaFactoryFranchise" />
-      <recent name="DFactoryPattern.APizzaFactory" />
-      <recent name="Pizza" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\FCommandPattern\BRemoteControl" />
+      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\DFactoryPattern\BPizzaFactoryFranchise" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pizzeria">
+  <component name="RunManager" selected="Application.RemoteLoaderTest">
     <configuration name="PizzaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFactoryPattern.BPizzaFactoryMethodPattern.PizzaTest" />
       <module name="HeadFirstDesignPatterns" />
@@ -179,18 +198,18 @@
       <module name="HeadFirstDesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
+    <configuration name="RemoteControlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FCommandPattern.ACommandPattern.RemoteControlTest" />
+      <module name="HeadFirstDesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RemoteLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FCommandPattern.BRemoteControl.RemoteLoaderTest" />
+      <module name="HeadFirstDesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CDecoratorPattern.ADecoratorPattern.StarbuzzCoffee" />
-      <module name="HeadFirstDesignPatterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BObserverPattern.BWeatherStationJava.WeatherStation" />
-      <module name="HeadFirstDesignPatterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BObserverPattern.AWeatherStation.WeatherStation" />
       <module name="HeadFirstDesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -218,19 +237,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Application.WeatherStation" />
-      <item itemvalue="Application.WeatherStation (1)" />
       <item itemvalue="Application.StarbuzzCoffee" />
       <item itemvalue="Application.PizzaTest" />
       <item itemvalue="Application.Pizzeria" />
+      <item itemvalue="Application.RemoteControlTest" />
+      <item itemvalue="Application.RemoteLoaderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteLoaderTest" />
+        <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.Pizzeria" />
         <item itemvalue="Application.PizzaTest" />
         <item itemvalue="Application.StarbuzzCoffee" />
-        <item itemvalue="Application.WeatherStation (1)" />
-        <item itemvalue="Application.WeatherStation" />
       </list>
     </recent_temporary>
   </component>
@@ -243,12 +262,14 @@
       <updated>1522413582331</updated>
       <workItem from="1522413583959" duration="4853000" />
       <workItem from="1522514389013" duration="3421000" />
-      <workItem from="1522573125382" duration="10460000" />
+      <workItem from="1522573125382" duration="11057000" />
+      <workItem from="1522658082777" duration="1945000" />
+      <workItem from="1522746614639" duration="4183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18734000" />
+    <option name="totallyTimeSpent" value="25459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -258,25 +279,25 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29042906" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29042906" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,196 +312,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/domain/impl/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/AWeatherStation/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-551">
-          <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
-          <folding>
-            <element signature="e#3747#3748#0" expanded="true" />
-            <element signature="e#3784#3785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BObserverPattern/BWeatherStationJava/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="73" lean-forward="true" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Espresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="33" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/DarkRoast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/StarbuzzCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/condiments/Mocha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/HouseBlend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/Pizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -492,10 +323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -513,13 +340,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/SimplePizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/SimplePizzaFactory.java" />
     <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/SimplePizzaFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -538,12 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,12 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,27 +425,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Dough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Sauce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Cheese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Dough.java" />
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Sauce.java" />
+    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/Cheese.java" />
     <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/CAbstractPizzaFactory/ingredients/NYCheese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -690,15 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,9 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -747,9 +523,149 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ESingletonPattern/ChocolateBoiler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/LightOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/RemoteControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/NoCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/Light.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/LightOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/LightOnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/LightOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/SimpleRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/StereoOnWithCDCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/StereoOffWithCDCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/Stereo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
+          <folding>
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
         </state>
       </provider>
     </entry>
