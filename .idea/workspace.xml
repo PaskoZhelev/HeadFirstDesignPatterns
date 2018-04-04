@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/CDecoratorPattern/ADecoratorPattern/StarbuzzCoffee.java" line="21" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a15d5e8-252c-41ec-ad65-7ed8775dee45" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1a15d5e8-252c-41ec-ad65-7ed8775dee45" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +14,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="EnumerationIterator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/BEnumerationAdapter/EnumerationIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,15 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/CheesePizza.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/APizzaFactory/PepperoniPizza.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/SimplePizzaFactory.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/PizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/NYPizzaStore.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/PizzaTest.java" />
-        <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/Pizza.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/NYStyleCheesePizza.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/NYStylePepperoniPizza.java" />
         <option value="$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/PizzaTest.java" />
@@ -84,6 +92,15 @@
         <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteLoader.java" />
         <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteLoaderTest.java" />
         <option value="$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/RemoteControl.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/DuckImpl.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/Turkey.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/WildTurkey.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/Duck.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/TurkeyAdapter.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/MallardDuck.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/DuckTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/DuckAdapter.java" />
+        <option value="$PROJECT_DIR$/src/GAdapterPattern/BEnumerationAdapter/EnumerationIterator.java" />
       </list>
     </option>
   </component>
@@ -113,17 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HeadFirstDesignPatterns" type="58d84e3e:PackageViewProjectNode" />
-              <item name="HeadFirstDesignPatterns" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -137,11 +143,16 @@
               <item name="HeadFirstDesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="HeadFirstDesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HeadFirstDesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FCommandPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="HeadFirstDesignPatterns" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HeadFirstDesignPatterns" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -155,24 +166,24 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="FCommandPattern.BRemoteControl" />
-      <recent name="FCommandPattern.ACommandPattern" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="AIntroductionChapter.ADuckBehaviours.domain" />
       <recent name="AIntroductionChapter.ADuckBehaviours.behaviours.fly.impl" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\FCommandPattern\BRemoteControl" />
+      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\DFactoryPattern\BPizzaFactoryFranchise" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FCommandPattern.BRemoteControl" />
+      <recent name="FCommandPattern.ACommandPattern" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="GAdapterPattern.ASimpleDuckAdapter" />
       <recent name="FCommandPattern.BRemoteControl" />
       <recent name="FCommandPattern.ACommandPattern" />
       <recent name="DFactoryPattern.CAbstractPizzaFactory.ingredients" />
       <recent name="DFactoryPattern.CAbstractPizzaFactory" />
-      <recent name="DFactoryPattern.BPizzaFactoryFranchise" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\FCommandPattern\BRemoteControl" />
-      <recent name="C:\Users\pasko\git\HeadFirstDesignPatterns\src\DFactoryPattern\BPizzaFactoryFranchise" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,7 +198,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoteLoaderTest">
+  <component name="RunManager" selected="Application.DuckTestDrive">
+    <configuration name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GAdapterPattern.ASimpleDuckAdapter.DuckTestDrive" />
+      <module name="HeadFirstDesignPatterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="PizzaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFactoryPattern.BPizzaFactoryMethodPattern.PizzaTest" />
       <module name="HeadFirstDesignPatterns" />
@@ -205,11 +221,6 @@
     </configuration>
     <configuration name="RemoteLoaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FCommandPattern.BRemoteControl.RemoteLoaderTest" />
-      <module name="HeadFirstDesignPatterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CDecoratorPattern.ADecoratorPattern.StarbuzzCoffee" />
       <module name="HeadFirstDesignPatterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -237,19 +248,19 @@
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
     <list>
-      <item itemvalue="Application.StarbuzzCoffee" />
       <item itemvalue="Application.PizzaTest" />
       <item itemvalue="Application.Pizzeria" />
       <item itemvalue="Application.RemoteControlTest" />
       <item itemvalue="Application.RemoteLoaderTest" />
+      <item itemvalue="Application.DuckTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuckTestDrive" />
         <item itemvalue="Application.RemoteLoaderTest" />
         <item itemvalue="Application.RemoteControlTest" />
         <item itemvalue="Application.Pizzeria" />
         <item itemvalue="Application.PizzaTest" />
-        <item itemvalue="Application.StarbuzzCoffee" />
       </list>
     </recent_temporary>
   </component>
@@ -265,11 +276,12 @@
       <workItem from="1522573125382" duration="11057000" />
       <workItem from="1522658082777" duration="1945000" />
       <workItem from="1522746614639" duration="4183000" />
+      <workItem from="1522826825911" duration="2862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25459000" />
+    <option name="totallyTimeSpent" value="28321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -281,13 +293,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29042906" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0990099" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
@@ -298,6 +309,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,49 +324,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/Pizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/PizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/CheesePizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/PepperoniPizza.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryFranchise/SimplePizzaFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/ASimplePizzaFactory/SimplePizzaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/NYPizzaStore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DFactoryPattern/BPizzaFactoryMethodPattern/NYStyleCheesePizza.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -537,10 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,12 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,22 +537,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/Light.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FCommandPattern/BRemoteControl/LightOnCommand.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FCommandPattern/ACommandPattern/LightOnCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -615,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,15 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,10 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
-          <folding>
-            <element signature="e#707#708#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,6 +597,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/WildTurkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/MallardDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/DuckTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/Turkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/TurkeyAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/ASimpleDuckAdapter/DuckAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="79" column="16" lean-forward="true" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GAdapterPattern/BEnumerationAdapter/EnumerationIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
